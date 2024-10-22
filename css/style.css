@@ -1,0 +1,19 @@
+body{
+    background-color: #f1f0f0;
+}
+
+h1{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+div{
+    width: 80%;
+    margin: 0 auto;
+}
+
+p{
+    text-align: justify;
+    margin-left: 10px;
+    margin-right: 10px;
+}
